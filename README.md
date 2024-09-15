@@ -31,7 +31,7 @@ This project is a website for a VPN (Virtual Private Network) service. It includ
 
 1. Clone the repository to your local machine
    ```
-   git clone https://github.com/your-username/vpn-service.git
+   git clone https://github.com/rwhrsbh/Vpn-Site-Project.git
    ```
 2. Navigate to the project directory
    ```
