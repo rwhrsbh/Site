@@ -1,6 +1,6 @@
 # VPN Service Project
 
-![VPN Logo](docs/images/logo.jpg)
+![VPN Logo](images/logo.jpg)
 
 ## Project Overview
 
