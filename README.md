@@ -6,7 +6,7 @@
 
 This project is a website for a VPN (Virtual Private Network) service. It includes multiple pages for showcasing the service, user authentication, and help documentation.
 
-### [Link to Site](https://rwhrsbh.github.io/Site/)
+### [Link to Site](https://rwhrsbh.github.io/Vpn-Site-Project/)
 
 ## File Structure
 
